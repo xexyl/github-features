@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: bug report
+    url: https://github.com/xexyl/github-features
+    about: Please create a report to help us improve
