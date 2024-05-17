@@ -34,12 +34,12 @@ body:
     description: |
       examples:
         - **OS**: macOS Sonoma 14.5
-	- **Devices**: iPhone 14 Pro Max, ...
-	- **Browser**: Safari 17.5 (19618.2.12.11.6)
+        - **Devices**: iPhone 14 Pro Max, ...
+        - **Browser**: Safari 17.5 (19618.2.12.11.6)
     value: |
         - OS:
-	- Devices:
-	- Browser:
+        - Devices:
+        - Browser:
     render: markdown
   validations:
     required: true
