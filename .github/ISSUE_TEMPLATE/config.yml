@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Blank issue
+    url: https://github.com/xexyl/github-features
+    about: If you have another kind of issue than explicitly listed
