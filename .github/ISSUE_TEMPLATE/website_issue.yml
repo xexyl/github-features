@@ -1,12 +1,12 @@
 name: Website issue
 description: File a problem with the website
-title: "[Website issue] <title>"
+title: "[Website] <title>"
 labels: ["Website"]
 body:
 - type: checkboxes
   attributes:
     label: Is there an existing issue for this?
-    description: Please search to see if an issue already exists for the problem you've encountered.
+    description: Please search to see if an issue already exists for the problem you're reporting.
     options:
     - label: I have searched for existing issues and did not find anything like it
       required: true
@@ -32,13 +32,15 @@ body:
   attributes:
     label: Environment
     description: |
-      examples:
+      Examples:
         - **OS**: macOS Sonoma 14.5
-        - **Devices**: iPhone 14 Pro Max, ...
+        - **Device**: MacBook Pro M1
         - **Browser**: Safari 17.5 (19618.2.12.11.6)
+
+        If you have the problem with more than one device please list the above for all devices.
     value: |
         - OS:
-        - Devices:
+        - Device:
         - Browser:
     render: markdown
   validations:
