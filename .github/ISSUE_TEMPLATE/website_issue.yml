@@ -1,4 +1,4 @@
-name: Bug
+name: Website issue
 description: File a problem with the website
 title: "[Website issue] <title>"
 labels: ["Website"]
