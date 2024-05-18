@@ -14,7 +14,7 @@ body:
   attributes:
     label: Describe the feature
     description: |
-        Please describe the feature you would like to have and why (the more details you provide the better). If you have images or other files that will help explain what you're getting at, this can also be **EXTREMELY** helpful.
+        Please describe the feature you would like to have and why (the more details you provide the better).
 
         Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
@@ -22,9 +22,9 @@ body:
 
 - type: textarea
   attributes:
-    label: Screenshots
+    label: Images, screenshots or other files
     description: |
-       Do you have any **relevant** screenshots? This can be **EXTREMELY** helpful, if you do.
+       If you have images or other files that will help explain what you're getting at, this can also be **EXTREMELY** helpful.
 
        Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
@@ -41,9 +41,8 @@ body:
   attributes:
     label: Anything else?
     description: |
-      Do you have any additional context or information?
+      Do you have any additional context or information? Please let us know!
 
-      Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
     required: false
 
