@@ -29,7 +29,7 @@ body:
   attributes:
     label: What you expect
     description: |
-        "Please describe what you think it should be instead and why (the more details you provide the better). If you have images that will help in explaining what you're getting at, this can also be **EXTREMELY** helpful. Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files."
+        Please describe what you think it should be instead and why (the more details you provide the better). If you have images that will help in explaining what you're getting at, this can also be **EXTREMELY** helpful. Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
     required: true
 - type: textarea
