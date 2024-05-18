@@ -12,7 +12,7 @@ body:
 - type: textarea
   attributes:
     label: Describe the problem
-    description: Please describe the issue that you are having (the more details you provide the better).
+    description: Please describe the issue that you are having, as best you can (the more details you provide the better).
   validations:
     required: true
 
@@ -30,7 +30,7 @@ body:
   attributes:
     label: What you expect
     description: |
-        Please describe what you think it should be instead and why (the more details you provide the better). If you have images or other files that will help in explaining what you're getting at, this can also be **EXTREMELY** helpful.
+        Please describe what you think it should be instead and why, as best you can (the more details you provide the better). If you have images or other files that will help explain what you're getting at, this can also be **EXTREMELY** helpful.
 
         Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
