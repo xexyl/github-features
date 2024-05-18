@@ -1,5 +1,5 @@
 name: Website issue
-description: File a problem with the website
+description: Report a problem with the website
 title: "[Website] <title>"
 labels: ["Website"]
 body:
@@ -13,19 +13,19 @@ body:
 - type: textarea
   attributes:
     label: Describe the problem
-    description: Please describe the issue that you have with the website.
+    description: Please describe the issue that you have with the website (the more details you provide the better).
   validations:
     required: true
 - type: textarea
   attributes:
     label: What you expect
-    description: Please describe what you think it should be instead and why.
+    description: Please describe what you think it should be instead and why (the more details you provide the better).
   validations:
     required: true
 - type: textarea
   attributes:
     label: Relevant links
-    description: Please provide us with a list of relevant links.
+    description: Please provide a list of relevant links.
   validations:
     required: true
 - type: textarea
@@ -37,7 +37,7 @@ body:
         - **Device**: MacBook Pro M1
         - **Browser**: Safari 17.5 (19618.2.12.11.6)
 
-        If you have the problem with more than one device please list the above for all devices.
+        If you have the **same** problem with more than one device please list the above for all devices with any relevant context.
     value: |
         - OS:
         - Device:
@@ -48,7 +48,7 @@ body:
 - type: checkboxes
   attributes:
     label: Do you have JavaScript enabled?
-    description: Please let us know if you have JavaScript enabled or not.
+    description: Please let us know if you have JavaScript enabled or not, as this might be relevant in some cases.
     options:
     - label: JavaScript enabled?
       required: true
