@@ -21,7 +21,7 @@ body:
   attributes:
     label: Screenshots
     description: |
-	Do you have any **relevant** screenshots? This can be **EXTREMELY** helpful, if you do. Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
+       Do you have any **relevant** screenshots? This can be **EXTREMELY** helpful, if you do. Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
     required: false
 
