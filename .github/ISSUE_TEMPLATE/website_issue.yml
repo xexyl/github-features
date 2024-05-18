@@ -32,12 +32,13 @@ body:
   attributes:
     label: Environment
     description: |
-      Examples:
+      Example:
         - **OS**: macOS Sonoma 14.5
         - **Device**: MacBook Pro M1
         - **Browser**: Safari 17.5 (19618.2.12.11.6)
 
-        If you have the **same** problem with more than one device please list the above for all devices with any relevant context.
+        **PLEASE** provide **AT** **LEAST** the above.
+        If you have the **SAME** problem with more than one device please list the above for all devices with any relevant context.
     value: |
         - OS:
         - Device:
