@@ -14,15 +14,13 @@ body:
   attributes:
     label: Describe the feature
     description: |
-        Please describe the feature you would like to have and why (the more details you provide the better).
-
-        Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
+        Please describe the feature you would like to have and why, as best you can (the more details you provide the better).
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: Images, screenshots or other files
+    label: Relevant images, screenshots or other files
     description: |
        If you have images or other files that will help explain what you're getting at, this can also be **EXTREMELY** helpful.
 
