@@ -31,9 +31,7 @@ body:
   attributes:
     label: What you expect
     description: |
-        Please describe what you think it should be instead and why (the more details you provide the better).
-
-        If you have images that will help in explaining what you're getting at, this can also be **EXTREMELY** helpful.
+        Please describe what you think it should be instead and why (the more details you provide the better). If you have images that will help in explaining what you're getting at, this can also be **EXTREMELY** helpful.
 
         Tip: to attach images, click the text area to to highlight it and then drag the files in.
   validations:
