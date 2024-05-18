@@ -18,9 +18,9 @@ body:
 
 - type: textarea
   attributes:
-    label: Screenshots
+    label: Relevant images, screenshots or other files
     description: |
-       Do you have any **relevant** screenshots? This can be **EXTREMELY** helpful, if you do.
+       Do you have any **relevant** screenshots or other files? This can be **EXTREMELY** helpful, if you do.
 
        Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
