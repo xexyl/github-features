@@ -16,10 +16,24 @@ body:
     description: Please describe the issue that you have with the website (the more details you provide the better).
   validations:
     required: true
+
+- type: textarea
+  attributes:
+    label: Screenshots
+    description: |
+      Do you have any **relevant** screenshots? This can be **EXTREMELY** helpful, if you do.
+
+      Tip: you can attach images, screenshots or otherwise, by clicking the text area to highlight it and then drag files in.
+  validations:
+    required: false
+
 - type: textarea
   attributes:
     label: What you expect
     description: Please describe what you think it should be instead and why (the more details you provide the better).
+
+    If you have images that will help in explaining what you're getting at, this can also be **EXTREMELY** helpful.
+    To attach images, click the text area to highlight it and then drag the files in.
   validations:
     required: true
 - type: textarea
@@ -55,21 +69,11 @@ body:
 
 - type: textarea
   attributes:
-    label: Screenshots
-    description: |
-      Do you have any relevant screenshots? This can be **EXTREMELY** helpful, if you do.
-
-      Tip: you can attach images, screenshots or otherwise, by clicking this area to highlight it and then dragging files in.
-  validations:
-    required: false
-
-- type: textarea
-  attributes:
     label: Anything else?
     description: |
       Do you have any additional context or information? Do you have any browser plug-ins that might be causing a problem? Please let us know!
 
-      Tip: you can attach files by clicking this area to highlight it and then dragging files in.
+      Tip: you can attach files by clicking the text area to highlight it and then drag files in.
   validations:
     required: false
 
