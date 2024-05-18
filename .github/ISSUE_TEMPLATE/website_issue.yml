@@ -51,7 +51,7 @@ body:
         - **Device**: MacBook Pro M1
         - **Browser**: Safari 17.5 (19618.2.12.11.6)
 
-        **PLEASE** provide **AT** **LEAST** the above items. If you have the **SAME** problem with more than one device please list the above for **ALL** **RELEVANT** **devices** with **all** **relevant** **context**.
+        **PLEASE** provide **AT** **LEAST** the above items. If you have the **SAME** problem with more than one device please list the above for **ALL** **RELEVANT** **devices** with **any** **relevant** **context**.
     value: |
         - OS:
         - Device:
