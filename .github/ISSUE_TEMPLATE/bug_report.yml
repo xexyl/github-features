@@ -32,20 +32,20 @@ body:
       Example:
         - **OS**: macOS Sonoma 14.5
         - **Device**: MacBook Pro M1
-        - **Browser**: Safari 17.5 (19618.2.12.11.6)
+		- **Compiler**: Apple clang version 15.0.0 (clang-1500.3.9.4)
 
         **PLEASE** provide **AT** **LEAST** the above items. If you have the **SAME** problem with more than one device please list the above for **ALL** **RELEVANT** **devices** with **any** **relevant** **context**.
     value: |
         - OS:
         - Device:
-        - Browser:
+		- Compiler:
     render: markdown
   validations:
     required: true
 
 - type: textarea
   attributes:
-    label: bug_report.sh and any other attached files
+    label: bug_report.sh output
     description: |
       Please attach the log file of './bug_report.sh' as well as anything else you think might be useful.
 
@@ -58,6 +58,8 @@ body:
     label: Anything else?
     description: |
       Do you have any additional context or information that might be helpful? Please let us know!
+
+      Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
     required: false
 
