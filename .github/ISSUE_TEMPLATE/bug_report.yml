@@ -9,25 +9,30 @@ body:
     options:
     - label: I have searched for existing issues and did not find anything like it
       required: true
-- type: textarea
-  attributes:
-    label: Describe the problem
-    description: Please describe the bug that you are having, as best you can (the more details you provide the better).
-  validations:
-    required: true
 
 - type: textarea
   attributes:
     label: Describe the bug
     description: |
-       Please give a **clear** and **concise** description of what the bug is.
+       Please give a **clear** and **concise** description of what the bug is. If you have any files to upload that can be helpful as well.
 
+      Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
     required: false
 
 - type: textarea
   attributes:
-    label: What you expect
+    label: Steps to reproduce
+    description: |
+        Please help us by explaining how to reproduce the bug in a step by step manner.
+
+  validations:
+    required: true
+
+
+- type: textarea
+  attributes:
+    label: Expected behaviour
     description: |
         Please describe what you think it should be instead and why, as best you can (the more details you provide the better).
 
