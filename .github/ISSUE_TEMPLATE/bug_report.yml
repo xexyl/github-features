@@ -45,11 +45,19 @@ body:
 
 - type: textarea
   attributes:
-    label: bug_report.sh and any other output output
+    label: bug_report.sh and any other attached files
     description: |
       Please attach the log file of './bug_report.sh' as well as anything else you think might be useful.
 
       Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
+  validations:
+    required: false
+
+- type: textarea
+  attributes:
+    label: Anything else?
+    description: |
+      Do you have any additional context or information that might be helpful? Please let us know!
   validations:
     required: false
 
