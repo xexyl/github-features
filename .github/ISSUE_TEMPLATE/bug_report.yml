@@ -14,7 +14,7 @@ body:
   attributes:
     label: Describe the bug
     description: |
-       Please give a **clear** and **concise** description of what the bug is. If you have any files to upload that can be helpful as well.
+       Please give a **clear** and **concise** description of what the bug is (if you have any files to upload that can be helpful as well).
 
       Tip: you can attach files by clicking the text area to highlight it and then click the link that says paste, drop or click to add files.
   validations:
