@@ -34,7 +34,7 @@
 
 ## 0. Where can I find the mkiocccentry tool?
 
-</div>
+</a>
 
 The `mkiocccentry` tool source code is found in the
 [mkiocccentry repo](https://github.com/ioccc-src/mkiocccentry).
@@ -52,7 +52,6 @@ and then extract that file.
 
 
 <div id=="compiling">
-
 ## 1. How do I compile the mkiocccentry tool?
 </div>
 
