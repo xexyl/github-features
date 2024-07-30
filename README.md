@@ -52,6 +52,7 @@ Baz bar foo.
 
 
 <a name="anchor-link">Anchor</a>
+# anchor
 
 Foo bar baz.
 
@@ -102,3 +103,5 @@ Foo bar baz.
 Baz bar foo.
 
 <div id="div-id-link">Div id link</div>
+## div
+</div>
