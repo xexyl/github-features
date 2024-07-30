@@ -1,7 +1,7 @@
 # GitHub features tests
 
-<a href="anchor-link">Anchor link</a>
-<a href="div-id-link">Div id link</a>
+<a href="#anchor-link">Anchor link</a>
+<a href="#div-id-link">Div id link</a>
 Foo bar baz.
 
 Baz bar foo.
