@@ -30,11 +30,8 @@
 12. <a href="#keyword">Why do these tools sometimes use the incorrect IOCCC terms?</a>
 
 
-<a name="download">
-
+<div id="download"></div>
 ## 0. Where can I find the mkiocccentry tool?
-
-</a>
 
 The `mkiocccentry` tool source code is found in the
 [mkiocccentry repo](https://github.com/ioccc-src/mkiocccentry).
