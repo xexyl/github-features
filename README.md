@@ -1,108 +1,14 @@
 # GitHub features tests
 
-<a href="#anchor-link">Anchor link</a>
-<a href="#div-id-link">Div id link</a>
-Foo bar baz.
+This repo is for a number of personal tests of GitHub
+features/quirks/(mis)features/bugs/whatever-anyone-wishes-to-call-them and is
+meant entirely for other repos.
 
-Baz bar foo.
+It is not something anyone would want to clone unless they're doing
+something **REALLY REALLY** strange or is **EXTREMELY BORED** with
+**ABSO-BLOODY-LUTELY** nothing else to do.
 
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-
-<a name="anchor-link">Anchor</a>
-# anchor
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-Foo bar baz.
-
-Baz bar foo.
-
-<div id="div-id-link">Div id link</div>
-
-## div
-</div>
+Of course if anyone does clone it I would
+[tip](https://dictionary.cambridge.org/uk/dictionary/english/tip-hat-to) my
+proverbial [hat](https://en.wikipedia.org/wiki/Hat) off to them for
+being as odd as me! :-)
