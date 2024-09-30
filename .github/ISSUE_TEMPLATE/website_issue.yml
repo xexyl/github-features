@@ -56,7 +56,6 @@ body:
         - OS:
         - Device:
         - Browser:
-    render: markdown
   validations:
     required: true
 - type: checkboxes
